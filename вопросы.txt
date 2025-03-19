@@ -1,0 +1,13 @@
+1. Несмог почить дергание елемента под кнопкой "Зарегистрироаватся", когда срабатывает a:hover
+
+2. h1 {
+    text-align: center;
+    font-size: 50px;
+    padding: 30px;
+    background: linear-gradient(to left, violet,indigo,blue,green,yellow,orange,red);
+    background-clip: text;
+    display: inline;
+    color: transparent;  
+}
+
+К сожелению какое то из этих свойст мешает тексту быть text-align: center; , оставил форматирование так, интересно почему не получается
